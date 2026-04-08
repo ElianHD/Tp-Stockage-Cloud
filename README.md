@@ -75,7 +75,7 @@ docker-compose up -d
 
 Une fois lancé, accède à ownCloud via :
 
-👉 http://192.168.20.141:8080
+👉 http:/localhost:8080
 
 ---
 
